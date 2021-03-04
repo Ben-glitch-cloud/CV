@@ -17,7 +17,11 @@ Advancing my coding skills further, I taught myself Ruby, reinforcing and testin
 
 I would like to work in an environment that challenges me to advance  web development, and shares  my goal  of creating the ultimate user experience. Having graduated from Makers I am keen to use my tenacity, curiosity and developing tech skills to achieve this. 
 </br> 
-</br>
+</br> 
+<h2>Tech Stack</h2> 
+
+
+
 <h2>Profile</h2> 
 
 | Profect | Descrption | Link | Project Structure | Technologies | 
