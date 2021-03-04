@@ -12,7 +12,7 @@
 
 <h2> About me </h2>
 
-I graduated in 2019 with a first class degree in Business Management. Whilst this enabled me to understand many traditional business models, the impact of digital and tech on the majority of sectors was of real  interest to me. In my final year I joined the  University marketing team, working across a number of digital campaigns, and  building expertise in creative web development. As a result of this I started to teach myself HTML and CSS, gaining  a wider interest in software development as this could be applied to so many fields.  
+I graduated in 2019 with a first class degree in Business Management. Whilst this enabled me to understand many traditional business models, the impact of digital and tech on the majority of sectors was of real  interest to me. In my final year I joined the University marketing team, working across a number of digital campaigns, and  building expertise in creative web development. As a result of this I started to teach myself HTML and CSS, gaining  a wider interest in software development as this could be applied to so many fields.  
 
 Advancing my coding skills further, I taught myself Ruby, reinforcing and testing my knowledge via Code-wars, and went on to apply to the selective Makers Coding bootcamp. In addition to hard coding skills, the course was based on problem solving as part of a team, with focus on developing clean and efficient code. In my final team project we chose to deploy a tech stack which was new to us combined with a new front end, React Navigate. This approach enabled me to deliver a cohesive and well presented mobile format , iOS, trialled in X code, and  bringing  together my creative skills and coding knowledge.     
 
@@ -63,5 +63,7 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <h2>Education</h2> 
 
-<h2>Hobbies></h2>
+
+
+<h2>Hobbies</h2>
 
