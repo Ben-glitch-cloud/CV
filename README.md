@@ -1,8 +1,9 @@
-# Benedict Lawrence CV   
+<h1 align="center">Benedict Lawrence</h1>
 
 <div display="flex">
 <p>Email: btlawrence@gmail.com</p>  
-<p>Phone: 07741465456</p>
+ <p>Phone: 07741465456</p> 
+  
 </div>
 
 </br>
@@ -39,15 +40,16 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <h2>Skills</h2> 
 
-<ul>  
-  <li>Self starter : Initiated my software learning via open source materials, enabling to make the entry standard for Makers.</li>  
-  </br>
-  <li>Strong organisation skills : Methodical and process driven approach to tasks and problem solving, as evidenced in my coding practice. Also put into practice as University Climbing Club committee leader.</li>  
-  </br>
-  <li>Effective communicator : Comfortable presenting tasks and ideas to wider groups, as evidenced in my end of course project ( insert link )</li>  
-  </br>
-  <li>Resilient : I worked through a number of challenges relating to be being dyslexic. I now see this neuro- diversity as a strength.</li>    
-  </br>
-</ul>
+<dl>
+  <dt>Self starter</dt> 
+  <dd>Initiated my software learning via open source materials, enabling to make the entry standard for Makers.</dd>    
+  
+  <dt>Strong organisation skills</dt> 
+  <dd>Methodical and process driven approach to tasks and problem solving, as evidenced in my coding practice. Also put into practice as University Climbing Club       committee leader.</dd>  
+  <dt>Effective communicator</dt>
+    <dd>Comfortable presenting tasks and ideas to wider groups, as evidenced in my end of course project ( insert link )</dd>  
+  <dt>Resilient</dt>
+    <dd>I worked through a number of challenges relating to be being dyslexic. I now see this neuro- diversity as a strength.</dd>    
+</dl>
 
 
