@@ -3,7 +3,7 @@
 
 <p align="center"> 📧 Email: btlawrence@gmail.com</p>  
 <p align="center"> 📞 Phone: 07741465456</p>   
-<p align="center"><a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://user-images.githubusercontent.com/71974361/109997928-a2d4d680-7d08-11eb-982c-15ca09a5776d.png" width=100px ></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://user-images.githubusercontent.com/71974361/109997928-a2d4d680-7d08-11eb-982c-15ca09a5776d.png" width=100px><img src="https://user-images.githubusercontent.com/71974361/109998317-052dd700-7d09-11eb-8300-b559bc0e437f.png" width=100px></a></p>
 
 --- 
 
