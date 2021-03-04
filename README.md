@@ -76,5 +76,9 @@ I would like to work in an environment that challenges me to advance  web develo
 </br> 
 <h2>Hobbies</h2> 
 
-
+<p> 🧗 Rock climbing</p> 
+<p> 🏓 Table Tennis</p>  
+<p> 💻 Building websites</p> 
+<p> 🥾 Walking </p>
+  
 
