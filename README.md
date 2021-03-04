@@ -1,4 +1,4 @@
-<h1 align="center">Benedict Lawrence</h1>
+<h1 align="center">Ben Lawrence</h1>
 
 
 <p align="center"> 📧 Email: btlawrence@gmail.com</p>  
