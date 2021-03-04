@@ -49,7 +49,19 @@ I would like to work in an environment that challenges me to advance  web develo
   <dt>Effective communicator</dt>
     <dd>Comfortable presenting tasks and ideas to wider groups, as evidenced in my end of course project ( insert link )</dd>  
   <dt>Resilient</dt>
-    <dd>I worked through a number of challenges relating to be being dyslexic. I now see this neuro- diversity as a strength.</dd>    
+    <dd>I worked through a number of challenges relating to be being dyslexic. I now see this neuro- diversity as a strength.</dd>   
+</dl> 
+
+<dl> 
+ <dt>Microsoft Office</dt> 
+  <dd>Word</dd> 
+  <dd>PowerPoint</dd> 
+  <dd>Excel</dd>  
+  <dd>Access</dd>  
+  <dd>Outlook</dd> 
 </dl>
 
+<h2>Education</h2> 
+
+<h2>Hobbies></h2>
 
