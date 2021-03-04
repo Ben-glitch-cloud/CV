@@ -16,7 +16,7 @@
 <p align="center">I am interested in becoming a front end web developer, drawing on both my technical and creative skills.</p> 
 </br> 
 
-<h2> About me </h2>
+<h2>(#About-me)</h2>
 
 I graduated in 2019 with a first class degree in Business Management. Whilst this enabled me to understand many traditional business models, the impact of digital and tech on the majority of sectors was of real  interest to me. In my final year I joined the University marketing team, working across a number of digital campaigns, and  building expertise in creative web development. As a result of this I started to teach myself HTML and CSS, gaining  a wider interest in software development as this could be applied to so many fields.  
 
