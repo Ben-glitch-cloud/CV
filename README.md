@@ -5,8 +5,10 @@
 <p align="center"> 📞 Phone: 07741465456</p>   
 <p align="center"><a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://img.shields.io/badge/-LinedIn-lightblue?logo=LinkedIn&logoColor=darkblue&style=flat-square"></a></p>
 
----
-<p><a name="About Me">About Me</a></p>
+--- 
+
+[create an anchor](#About-me)
+
 ---
   
 
