@@ -6,8 +6,9 @@
 <p align="center"><a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://img.shields.io/badge/-LinedIn-lightblue?logo=LinkedIn&logoColor=darkblue&style=flat-square"></a></p>
 
 ---
+<p><a name="About Me">About Me</a></p>
+---
   
-</div>
 
 </br>
 <p align="center">I am interested in becoming a front end web developer, drawing on both my technical and creative skills.</p> 
