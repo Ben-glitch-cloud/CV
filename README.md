@@ -7,10 +7,8 @@
 
 --- 
 
-
+[About me](#About-me) | [Tech Stack](#Tech-Stack) | [Profile](#Profile) | [Skills](#Skills) | [Education](#Education) 
   
-[About me]( About me) | [Tech Stack](#Tech-Stack) | [Profile](#Profile) | [Skills](#Skills) | [Education](#Education)
-
 ---
   
 
