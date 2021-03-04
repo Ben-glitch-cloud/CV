@@ -63,7 +63,12 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <h2>Education</h2> 
 
+<dl>
+ <dt>Solent University</dt> 
+ <dd>Bachelor's degree in Business Managment, First class</dd>
+<dl>
+</br> 
+<h2>Hobbies</h2> 
 
 
-<h2>Hobbies</h2>
 
