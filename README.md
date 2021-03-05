@@ -42,8 +42,20 @@ I would like to work in an environment that challenges me to advance  web develo
 | Thermostat | A replica of a home thermostat using API to automatically adjust the temperature. | <a href="https://github.com/Ben-glitch-cloud/Thermostat">repo</a> | Team | Javascript, JQuary, Jasmine | 
 | Makers B&B | A clone of Air B&B | <a href="https://github.com/Ben-glitch-cloud/makersbnb_challenge>repo">repo</a> | Team | Ruby, Sinatra, SQL, Active Reacord | 
 </br>
-</br> 
+</br>  
+<h2>Experience</h2> 
 
+<dl>  
+  <dt>Social Media and Brand Communication</dt> 
+  <b><dd>Solent University</dd></b>  
+  <dd>I have gained valuable skills and experience in strategic planning for social media campaigns directed at students. Growing social media         channels accounts through community management on relevant topics.</dd>
+  <ul>
+    <li>Managed social media accounts and created social media for daily postings.</li> 
+    <li>Utilising analytics to measure the success of social media content posted.</li> 
+   </ul>
+</dl>
+ 
+</br>
 <h2>Skills</h2> 
 
 <dl>
