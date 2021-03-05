@@ -7,7 +7,7 @@
 
 --- 
 
-[About me](#About-me) | [Tech Stack](#Tech-Stack) | [Profile](#Profile) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies) 
+[About me](#About-me) | [Tech Stack](#Tech-Stack) | [Profile](#Profile) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies) 
   
 ---
   
@@ -71,19 +71,27 @@ I would like to work in an environment that challenges me to advance  web develo
 </dl> 
 
 <dl> 
- <dt>Microsoft Office</dt> 
-  <dd>Word</dd> 
-  <dd>PowerPoint</dd> 
-  <dd>Excel</dd>  
-  <dd>Access</dd>  
-  <dd>Outlook</dd> 
+ <dt>Microsoft Office</dt>  
+  <ul>
+    <li>Word</li> 
+    <li>PowerPoint</li> 
+    <li>Excel</li>  
+    <li>Access</li>  
+    <li>Outlook</li>  
+  </ul>
 </dl>
 
 <h2>Education</h2> 
 
 <dl> 
  <dt>Makers Coding bootcamp</dt> 
-  
+  <ul>
+    <li>OOP, TDD, DDD</li>
+    <li>Ruby, JavaScript, PostgreSQL</li>
+    <li>Ruby on Rails, React.js, Node.js</li>
+    <li>RSpec, Jasmine</li> 
+    <li>HTML, CSS, JQuery, JSX</li>
+ </ul>
  <dt>Solent University</dt> 
  <dd>Bachelor's degree in Business Managment, First class</dd>
 <dl>
