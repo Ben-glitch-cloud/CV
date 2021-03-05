@@ -65,7 +65,7 @@ I would like to work in an environment that challenges me to advance  web develo
   <dt>Strong organisation skills</dt> 
   <dd>Methodical and process driven approach to tasks and problem solving, as evidenced in my coding practice. Also put into practice as University Climbing Club       committee leader.</dd>  
   <dt>Effective communicator</dt>
-    <dd>Comfortable presenting tasks and ideas to wider groups, as evidenced in my end of course project ( insert link )</dd>  
+    <dd>Comfortable presenting tasks and ideas to wider groups, as evidenced in my end of course project.</dd>  
   <dt>Resilient</dt>
     <dd>I worked through a number of challenges relating to be being dyslexic. I now see this neuro- diversity as a strength.</dd>   
 </dl> 
