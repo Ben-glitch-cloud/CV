@@ -71,7 +71,6 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <dl> 
  <dt>Makers Coding bootcamp</dt> 
- <dd>4 months coding bootcamp learning the fundamentals</dd>
   
  <dt>Solent University</dt> 
  <dd>Bachelor's degree in Business Managment, First class</dd>
