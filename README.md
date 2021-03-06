@@ -101,6 +101,7 @@ I would like to work in an environment that challenges me to advance  web develo
 <p> 🧗 Rock climbing</p> 
 <p> 🏓 Table Tennis</p>  
 <p> 💻 Building websites</p> 
-<p> 🥾 Walking </p>
+<p> 🥾 Walking </p> 
+<p> 📷 Photography </p>
   
 
