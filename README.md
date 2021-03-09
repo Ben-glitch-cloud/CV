@@ -52,7 +52,12 @@ I would like to work in an environment that challenges me to advance  web develo
   <ul>
     <li>Managed social media accounts and created social media for daily postings.</li> 
     <li>Utilising analytics to measure the success of social media content posted.</li> 
-   </ul>
+   </ul> 
+  <dd>Learning to manage and sort alumni data that could be considered sensitive, within a database compliant with general data protection regulations (GDPR).</dd> 
+  <ul>
+    <li>Registering new alumni data into the database.</li> 
+    <li>Creating new categories for specific alumni information.</li>
+  </ul>
 </dl>
  
 </br>
