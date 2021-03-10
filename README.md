@@ -89,13 +89,13 @@ I would like to work in an environment that challenges me to advance  web develo
 <h2>Education</h2> 
 
 <dl> 
- <dt>Makers Coding bootcamp</dt>  
+ <dt>Makers Coding bootcamp (2020 - 2021)</dt>  
   <dd>The Makers coding Boot Camp pre-course started with learning the fundamentals of Ruby through challenges which focused on different aspects of the code. This enabled me to understand the language more proficiently when it came to applying these concepts to my projects.</dd>
   <dd>Implemented the testing framework Rspec alongside the practice of test-driven development (TDD). This greatly assisted me in the debugging of my projects, as I was able to plan and reflect my code appropriate to my testing. This topic would later apply to JavaScript with the testing framework Jasmine.</dd> 
   <dd>Introduced to the design of the model-view-controller(MVC), which broke down the areas in which a web application functions to both the user and the programmer through the front-end and back-end. In addition this introduced other topics including databases (SQL), Sinatra, HTML and CSS. </dd> 
   <dd>The first independent group project which reintroduced all the recently covered topics  with the challenge of building  a web application similar to Air BnB. This got my group to think about minimum-viable-product’s (MVPs), which was important for demonstrating the core application use of the product and how it would function. For effective communication,  our team  scheduled  morning and afternoon meetings on Zoom calls to discussed the functions that had been implemented  and tested.  When implementing new  features are group would pair off into two pairs of two to complete the task. In addition we regularly communicated  through a Slack channel in case issues or concerns occurred with the work at hand. Furthermore, domain-driven design (DDD) was utilised to appropriately name the class names variables and methods which would match the business domain. </dd> 
 <dd> Learning JavaScript with the implementation of jasmine as a testing framework and jQuery as a styling library.</dd>
- <dt>Solent University.</dt>  
+ <dt>Solent University (2016 - 2019)</dt>  
  <dd>Bachelor's degree in Business Managment, First class</dd>
 <dl>
 </br> 
