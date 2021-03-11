@@ -90,7 +90,7 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <dl> 
  <dt>Makers Coding bootcamp (2020 - 2021)</dt>  
-  <dd>The Makers coding Boot Camp pre-course started with learning the fundamentals of <link href="https://www.ruby-lang.org/en/">Ruby</link> Ruby through challenges which focused on different aspects of the code. This enabled me to understand the language more proficiently when it came to applying these concepts to my projects.</dd> 
+  <dd>The Makers coding Boot Camp pre-course started with learning the fundamentals of <a href="https://www.ruby-lang.org/en/">Ruby</a> through challenges which focused on different aspects of the code. This enabled me to understand the language more proficiently when it came to applying these concepts to my projects.</dd> 
   
   <dd>  I learned to implement the testing framework Rspec alongside the practice of test-driven development (TDD). This greatly assisted me in the debugging of my projects, as I was able to plan and reflect my code appropriately for  testing.  I would apply this process later to JavaScript with the testing framework Jasmine.  </dd>  
   
