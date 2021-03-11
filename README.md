@@ -105,7 +105,9 @@ I would like to work in an environment that challenges me to advance  web develo
  
  <dd>My team and I were challenged on a small group project to build a notepad application using JavaScript vanilla for both testing and styling.  This had greatly challenge me in researching the topic of vanilla JavaScript  and applying it to the group project.</dd> 
  
- <dd></dd>
+ <dd> In my final two week’s group project, we were given the task to create an application which was in relation to travel.  On the first day, every member of the group came up with an idea to present  and then vote upon.  We unanimously  voted on a travel application that would give tourists relevant information without looking through multiple browsers.  To keep track of our group workflow throughout the two weeks we used Githubs project board. As a group we want to challenge ourselves to use new languages  and libraries. Therefore, we decided to build a travel app in the iOS operating system utilising the tech stack Node.js,  React Native,  Fireball and Jest. 
+Utilising, Wireframe application to lay out a user-friendly design that can be easily interacted with.   This was useful, since no one in the group had the experience of laying out an application in a smart phone format.  
+To run the app in an iOS format we utilised  Expo Go and Xcode simulators.  In provide the relevant information to the user about a specific location which included  but not limited to whether, currency exchange,  top hotels and destinations.  The utilisation of Apis was applied  and regularly updated to provide accurate information to the user.  Unfortunately,  due to API constraints in cost  and integration with our tech stack we were unable to implement all Apis. </dd>
   
 <dd> Learning JavaScript with the implementation of jasmine as a testing framework and jQuery as a styling library.</dd>
  <dt>Solent University (2016 - 2019)</dt>  
