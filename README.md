@@ -90,10 +90,23 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <dl> 
  <dt>Makers Coding bootcamp (2020 - 2021)</dt>  
-  <dd>The Makers coding Boot Camp pre-course started with learning the fundamentals of Ruby through challenges which focused on different aspects of the code. This enabled me to understand the language more proficiently when it came to applying these concepts to my projects.</dd>
-  <dd>Implemented the testing framework Rspec alongside the practice of test-driven development (TDD). This greatly assisted me in the debugging of my projects, as I was able to plan and reflect my code appropriate to my testing. This topic would later apply to JavaScript with the testing framework Jasmine.</dd> 
-  <dd>Introduced to the design of the model-view-controller(MVC), which broke down the areas in which a web application functions to both the user and the programmer through the front-end and back-end. In addition this introduced other topics including databases (SQL), Sinatra, HTML and CSS. </dd> 
-  <dd>The first independent group project which reintroduced all the recently covered topics  with the challenge of building  a web application similar to Air BnB. This got my group to think about minimum-viable-product’s (MVPs), which was important for demonstrating the core application use of the product and how it would function. For effective communication,  our team  scheduled  morning and afternoon meetings on Zoom calls to discussed the functions that had been implemented  and tested.  When implementing new  features are group would pair off into two pairs of two to complete the task. In addition we regularly communicated  through a Slack channel in case issues or concerns occurred with the work at hand. Furthermore, domain-driven design (DDD) was utilised to appropriately name the class names variables and methods which would match the business domain. </dd> 
+  <dd>The Makers coding Boot Camp pre-course started with learning the fundamentals of Ruby through challenges which focused on different aspects of the code. This enabled me to understand the language more proficiently when it came to applying these concepts to my projects.</dd> 
+  
+  <dd>  I learned to implement the testing framework Rspec alongside the practice of test-driven development (TDD). This greatly assisted me in the debugging of my projects, as I was able to plan and reflect my code appropriately for  testing.  I would apply this process later to JavaScript with the testing framework Jasmine.  </dd>  
+  
+  <dd>Introduced to the design of the model-view-controller(MVC), enabling me to understand  areas in which a web application functions to both the user,the programmer,  and in regard to the front and back end. Further new areas of practice applied to databases (SQL), frameworks such as Sinatra, and expanding my coding languages with HTML and CSS.</dd>  
+  
+  <dd>My first independent group project  bought together all of the recently covered topics with the challenge of building a web application similar to AirBnB. This introduced the concept of a minimum-viable-product’s (MVPs), which was important for demonstrating the core application use  and how it would function. For effective communication, we  scheduled morning and afternoon meetings via  Zoom, to discussed the functions that had been implemented and tested, and to discuss our progress and challenges. When implementing new features we paired to focus on task completion. In addition we regularly communicated through  Slack group, to keep proactively up to date on  issues or concerns which occurred. Furthermore, domain-driven design (DDD) was utilised to label  the classes,  variables and methods aligned with  the business domain. </dd> 
+  
+ <dd>Learning JavaScript with the application's of jasmine as a testing framework and jQuery for styling.     
+ With no prior knowledge of the language this greatly assisted me in  understanding the new syntaxes used in the code.</dd> 
+ 
+ <dd> One of the biggest group project challenges, was to utilise the framework Rails to build an  application similar to Twitter.  With know one in the team having prior experience using rails,  my team first mocked together to find out how to set up the application appropriately. Once this had been achieved we established our (MVP) alongside handing out  group members responsibilities to research how to implement functions in rails. A Trello board and Github wick was used to keep track of these activities and at what stage they were being implemented e.g.  being completed,  ready for review and  implemented. We unanimously decided as a team to take on the challenge of using React to give our app single-page front-end functionality.  This was an important group decision as it challenged us to use a new JavaScript library. </dd> 
+ 
+ <dd>My team and I were challenged on a small group project to build a notepad application using JavaScript vanilla for both testing and styling.  This had greatly challenge me in researching the topic of vanilla JavaScript  and applying it to the group project.</dd> 
+ 
+ <dd></dd>
+  
 <dd> Learning JavaScript with the implementation of jasmine as a testing framework and jQuery as a styling library.</dd>
  <dt>Solent University (2016 - 2019)</dt>  
  <dd>Bachelor's degree in Business Managment, First class</dd>
