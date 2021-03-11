@@ -47,17 +47,9 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <dl>  
   <dt>Social Media and Brand Communication</dt> 
-  <b><dd>Solent University</dd></b>  
-  <dd>I have gained valuable skills and experience in strategic planning for social media campaigns directed at students. Growing social media         channels accounts through community management on relevant topics.</dd>
-  <ul>
-    <li>Managed social media accounts and created social media for daily postings.</li> 
-    <li>Utilising analytics to measure the success of social media content posted.</li> 
-   </ul> 
-  <dd>Learning to manage and sort alumni data that could be considered sensitive, within a database compliant with general data protection regulations (GDPR).</dd> 
-  <ul>
-    <li>Registering new alumni data into the database.</li> 
-    <li>Creating new categories for specific alumni information.</li>
-  </ul>
+  <b><dd>Solent University(2018-2019)</dd></b>  
+  <dd> 
+  I have gained valuable skills and experience in strategic planning for social media campaigns directed at students. To manage the social media accounts I learnt how to use the Hootsuite platform to schedule daily posts and find relevant topics relating to Solent University activities.  Furthermore,  I created digital media in the form of images, short videos and gif’s to improve user engagement.  Additionally,  I was given the responsibility of creating an Instagram alumna account   with the purpose of sharing upcoming events and achievements may bypass students. The account now has over 1000 followers and  continues to grow.  In addition,  both the Facebook and Twitter accounts both saw a 15% increase in the number of followers.   </dd>
 </dl>
  
 </br>
