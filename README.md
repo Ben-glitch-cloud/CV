@@ -103,7 +103,7 @@ I would like to work in an environment that challenges me to advance  web develo
   
 
  <dt>Solent University (2016 - 2019)</dt>  
- <dd>Bachelor's degree in Business Managment, First class</dd>
+ <dd>Bachelor's degree in Business Managment, 1:1</dd>
 <dl>
 </br> 
 <h2>Hobbies</h2> 
