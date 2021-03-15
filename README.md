@@ -57,15 +57,15 @@ I would like to work in an environment that challenges me to advance  web develo
 <h2>Skills</h2> 
 
 <dl>
-  <dt>Self starter</dt> 
-  <dd>Initiated my software learning via open source materials, enabling to make the entry standard for Makers.</dd>    
+  <dt>Problem Solving</dt> 
+  <dd>When confronting a new problem I engage with it in stages,  by establishing where the issue is coming from and how it is occurring. Then I applying research and existing knowledge knowledge  to construct a plan in which to deal with the matter.   This approach is highly effective when dealing with bugs any project. </dd> 
+  <dt>Quick Learner</dt> 
+  <dd>I learn through experimenting with new concepts  in order to get a clear idea of the subject matter at hand.  While working at Solent’s University communications department,  I quickly learned how to use a database called C2C which manage alumni’s private information. As a result the manager assigned me more responsibilities over the collection and  storage of personal data.</dd>  
+  <dt> Resilient </dt> 
+  <dd> In my past work experience, I had a temporary summer job working at the Epsom Royal Automobile Club (RAC) as a waiter. Due to the popularity of the on-site restaurant,  I often had to manage multiple responsibilities to make sure everything ran smoothly,  this would often include; bar work,  overseeing new employees and  overseeing the host desk.</dd> 
+  <dt> Strong Organisation </dt> 
+  <dd> During my studies at Makers coding Academy, we were given new topics to learn every week which would coincide with afternoon and weekend challenges.  To effectively learn these subjects  I would create a timetable for that week  so each  theme could be learnt on a different day. </dd>
   
-  <dt>Strong organisation skills</dt> 
-  <dd>Methodical and process driven approach to tasks and problem solving, as evidenced in my coding practice. Also put into practice as University Climbing Club       committee leader.</dd>  
-  <dt>Effective communicator</dt>
-    <dd>Comfortable presenting tasks and ideas to wider groups, as evidenced in my end of course project.</dd>  
-  <dt>Resilient</dt>
-    <dd>I worked through a number of challenges relating to be being dyslexic. I now see this neuro- diversity as a strength.</dd>   
 </dl> 
 
 <dl> 
