@@ -29,7 +29,7 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <p align="center"><img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue"> <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> <img src="https://img.shields.io/badge/-jQuery-black?logo=jQuery&logoColor=lightblue"> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=yellow"></p> 
 
-<p align="center"><img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen">  <img src="https://img.shields.io/badge/-Ruby on Rails-black?logo=Ruby on Rails&logoColor=red"></p>                  
+<p align="center"><img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"> <img src="https://img.shields.io/badge/-Ruby on Rails-black?logo=Ruby on Rails&logoColor=red"></p>                  
 </br>
 </br>
 <h2>Profile</h2> 
