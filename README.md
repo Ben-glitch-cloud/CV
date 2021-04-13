@@ -31,7 +31,7 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <p align="center"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"> <img src="https://img.shields.io/badge/-RubyonRails-black?"> </p>  
 
-<h2>Personal Projects</h2> 
+<h2>Personal Projects Portfolio</h2> 
   
 | Project | Description | Repo | Language and gems used | Date of Completion | 
 | :--- | :--- | :---: | :--- | :--- |  
@@ -41,7 +41,7 @@ I would like to work in an environment that challenges me to advance  web develo
 
 </br>
 </br>
-<h2>Profile</h2> 
+<h2>Group Projects</h2> 
 
 | Project | Descrption | Link | Project Structure | Technologies | 
 | :--- | :--- | :--- | :--- | :--- | 
