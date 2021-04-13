@@ -29,13 +29,21 @@ I would like to work in an environment that challenges me to advance  web develo
 
 <p align="center"><img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue"> <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> <img src="https://img.shields.io/badge/-jQuery-black?logo=jQuery&logoColor=lightblue"> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold"></p> 
 
-<p align="center"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"> <img src="https://img.shields.io/badge/-RubyonRails-black?"> </p> 
+<p align="center"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"> <img src="https://img.shields.io/badge/-RubyonRails-black?"> </p>  
+
+<h2>Personal Projects<h2> 
+  
+| Project | Description | Repo | Language and gems used | Date of Completion | 
+| :--- | :--- | :---: | :--- | :--- |  
+| Simple Weather App | search for the weather in the UK | <a href="https://github.com/Ben-glitch-cloud/Simple-Weather-App">Repo</a> | Ruby, RSpec, Openweather, sinatra, Capybara, JSON | 24/03/2021 | 
+| Chitter App | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter_app">Repo</a> | Ruby, Rspec, sinatra, Capybara, postgreSQL | 11/04/2021 |
+
 
 </br>
 </br>
 <h2>Profile</h2> 
 
-| Profect | Descrption | Link | Project Structure | Technologies | 
+| Project | Descrption | Link | Project Structure | Technologies | 
 | :--- | :--- | :--- | :--- | :--- | 
 | Ride The Duck | A comprehensive  iOS app for travellers who want to find a range of relevant information for a specific location. Ie weather, restaurants, hotels, currency exchange. | <a href="https://github.com/Ben-glitch-cloud/RideTheDuck">repo</a> | Team | Node, Javascript, React Navigate, FireBall, Axons, API | 
 | Note Pad | A simple note app to record and store a users notes. | <a href="https://github.com/Ben-glitch-cloud/notes-app>repo">repo</a> | Team | Node, React, Javascript, Node.js |  
