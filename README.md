@@ -47,7 +47,7 @@ I would like to work in an environment that challenges me to advance  web develo
 | :--- | :--- | :--- | :--- | :--- | 
 | Ride The Duck | A comprehensive  iOS app for travellers who want to find a range of relevant information for a specific location. Ie weather, restaurants, hotels, currency exchange. | <a href="https://github.com/Ben-glitch-cloud/RideTheDuck">repo</a> | Team | Node, Javascript, React Navigate, FireBall, Axons, API | 
 | Note Pad | A simple note app to record and store a users notes. | <a href="https://github.com/Ben-glitch-cloud/notes-app>repo">repo</a> | Team | Node, React, Javascript, Node.js |  
-| Chitter App | A single page  clone of twitter. | <a href="">repo</a> | Team | Ruby on Rail, Ruby, React, SQLite | 
+| Chitter App | A single page  clone of twitter. | <a href="https://github.com/Ben-glitch-cloud/Chitter_app">repo</a> | Individual | Ruby on Rail, Ruby, React, SQLite | 
 | Thermostat | A replica of a home thermostat using API to automatically adjust the temperature. | <a href="https://github.com/Ben-glitch-cloud/Thermostat">repo</a> | Team | Javascript, JQuary, Jasmine | 
 | Makers B&B | A clone of Air B&B | <a href="https://github.com/Ben-glitch-cloud/makersbnb_challenge>repo">repo</a> | Team | Ruby, Sinatra, SQL, Active Reacord | 
 </br>
