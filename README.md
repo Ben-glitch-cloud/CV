@@ -42,7 +42,7 @@ I would like to work in an environment that challenges me to advance  web develo
 
 </br>
 </br>
-<h2>Group Projects</h2> 
+<h2>MAKERS Projects</h2> 
 
 | Project | Descrption | Link | Project Structure | Technologies | 
 | :--- | :--- | :--- | :--- | :--- | 
