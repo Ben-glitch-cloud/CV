@@ -13,7 +13,7 @@
   
 
 </br>
-<p align="center">I am interested in becoming a front end web developer, drawing on both my technical and creative skills.</p> 
+<p align="center">I am interested in becoming a full stack developer, drawing on both my technical and creative skills.</p> 
 </br> 
 
 <h2>About me</h2>
