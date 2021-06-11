@@ -38,7 +38,7 @@ I would like to work in an environment that challenges me to advance  web develo
 | Weather App | search for the weather in the UK | <a href="https://github.com/Ben-glitch-cloud/Simple-Weather-App">Repo</a> | Ruby, RSpec, Openweather, sinatra, Capybara, JSON | 24/03/2021 | 
 | Chitter App | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter_app">Repo</a> | Ruby, Rspec, sinatra, Capybara, postgreSQL | 11/04/2021 | 
 | Dice Game | Roll the dice | <a href="https://github.com/Ben-glitch-cloud/Dice-Game">Repo</a> | Javascript, HTML5, CSS3 | 22/04/2021 | 
-| Chitter App in Node.js | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter-App-JS">Repo</a> | Node.js, Express, ejs, HTML5, CSS3, Jest, JSON, SendGrid | 03/06/2021 |
+| Chitter App in Node.js | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter-App-JS">Repo</a> | Node.js, Express, ejs, HTML5, CSS3, Jest, JSON, postgreSQL, SendGrid | 03/06/2021 |
 
 </br>
 </br>
