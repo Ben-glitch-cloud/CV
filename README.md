@@ -63,7 +63,13 @@ I would like to work in an environment that challenges me to advance  web develo
 | Makers B&B | A clone of Air B&B | <a href="https://github.com/Ben-glitch-cloud/makersbnb_challenge>repo">repo</a> | Team | Ruby, Sinatra, SQL, Active Reacord | 
 </br>
 </br>  
-<h2>Experience</h2> 
+<h2>Experience</h2>  
+
+<dl>  
+    <dt>Freelance Project</dt> 
+    <dd><b>Company not disclosed</b></dd>
+    <dd>I have recently worked on a paid freelance project to build a portal page for a courier company. This undertaking has involved building on my knowledge of  the JavaScript library React, quickly understanding  the client’s API system in order to return customer package data. To design the UI, I utilised software Wireframe to create the layout of the interface. During the development, I kept the client regularly updated to discuss progress, design and functionality. I enjoyed working closely with the client team. Challenges I faced including poor API, with inconsistent data returns which I relayed to the client. </dd>
+</dl>
  
  <dl> 
   <dt>Junior Full Stack Software Engineer</dt> 
