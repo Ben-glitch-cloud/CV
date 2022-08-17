@@ -64,10 +64,16 @@ I would like to work in an environment that challenges me to advance  web develo
 </br>
 </br>  
 <h2>Experience</h2> 
-
+ 
+ <dl> 
+  <dt>Junior Full Stack Software Engineer</dt> 
+  <b><dd>Interactive Media Group(Jul 2021 - Nov 2022)</dd></b> 
+  <dd>During my work experience at Interactive Media Group, I took responsibility to independently learn ASP .NET core 5 so I would be able to contribute to  project in development. Even-though this was not asked of me. I communicate well within team environments, and have enjoyed both taking the lead and participating in brain storming  sessions at the beginning of projects in order to bring ideas together, and filter those which are workable. I have put this approach into practice with my partner recently in my freelance work, and especially in my final team project at Makers to crack both creative and coding challenges. Setting up whiteboard sessions to write down ideas and leading scrum meetings to plan out the day’s work.</dd>
+ </dl>
+ 
 <dl>  
   <dt>Social Media and Brand Communication</dt> 
-  <b><dd>Solent University(2018-2019)</dd></b>  
+  <b><dd>Solent University(Oct 2018 - May 2019)</dd></b>  
   <dd> 
   I have gained valuable skills and experience in strategic planning for social media campaigns directed at students. To manage the social media accounts I learnt how to use the Hootsuite platform to schedule daily posts and find relevant topics relating to Solent University activities.  Furthermore,  I created digital media in the form of images, short videos and gif’s to improve user engagement.  Moreover,  I was given the responsibility of creating an Instagram <a href="https://www.instagram.com/solentunialumni/?hl=en">Solent alumna instagram</a> account with the purpose of sharing upcoming events and achievements may bypass students. The account now has over 1000 followers and  continues to grow.  In addition,  both the Facebook and Twitter accounts saw a 15% increase in the number of followers. Overall,  this experience has been fundamental in growing my interest in digital media  and web development.</dd> 
  <dd> Another responsibility was processing new Solent alumni  who wanted to engage in the universities activities  and social programs. This involved inputting applicants names into a database  while crosschecking there details with the universities registry.  </dd>
