@@ -1,10 +1,15 @@
 <h1 align="center", font-size=40px >Ben Lawrence</h1>
 
 
-<p align="center"> 📧 btlawrence@gmail.com</p>  
-<p align="center"> 📞 07741465456</p>   
-<p align="center"><a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://user-images.githubusercontent.com/71974361/109997928-a2d4d680-7d08-11eb-982c-15ca09a5776d.png" width=100px><img src="https://user-images.githubusercontent.com/71974361/109998317-052dd700-7d09-11eb-8300-b559bc0e437f.png" width=100px></a></p>
+<p align="center"> 📧 btlawrence44@gmail.com</p>      
 
+<div style='display: flex; flex-direction: row; justify-content: center; '>
+<a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://user-images.githubusercontent.com/71974361/109997928-a2d4d680-7d08-11eb-982c-15ca09a5776d.png" width=100px></a>
+  
+<a href="https://www.codewars.com/users/Ben%20Lawrence">
+<img src="https://user-images.githubusercontent.com/71974361/109998317-052dd700-7d09-11eb-8300-b559bc0e437f.png" width=100px></a>
+</div>
+  
 --- 
 
 [About me](#About-me) | [Tech Stack](#Tech-Stack) | [Profile](#Profile) | [Experience](#Experience) | [Skills](#Skills) | [Education](#Education) | [Hobbies](#Hobbies) 
